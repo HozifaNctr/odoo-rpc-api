@@ -1,0 +1,54 @@
+body {
+  background-color: #f2f2f2;
+}
+
+.header {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+  }
+
+  .bigicon {
+    font-size: 35px;
+    color: #36A0FF;
+  }
+
+  
+  .espacio{
+    padding-top:50px;
+  }
+
+
+.file-input{
+   margin-top: 12px;
+}
+
+  .espacio2{
+    padding-top: 45px;
+  }
+
+  .centrado{
+    margin: 0 auto;
+  }
+
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #0069d9;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+.footer a{
+   text-decoration-style: none;
+   color: #ffffff;
+}
+
+.link-inferior {
+  height: 200px;
+}
+

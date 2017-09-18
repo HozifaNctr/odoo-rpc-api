@@ -1,0 +1,1 @@
+https://github.com/Tawasta/odoo-xml-rpc-example/blob/master/php-ripcord.md
